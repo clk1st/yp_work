@@ -1,0 +1,13 @@
+.buildpath
+.project
+.settings/
+env/
+*.DS_Store
+/log/
+/data/
+www/.htaccess
+*.swo
+*.swp
+tags
+/nbproject/private/
+.idea/
