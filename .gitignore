@@ -1,7 +1,6 @@
 .buildpath
 .project
 .settings/
-env/
 *.DS_Store
 /log/
 /data/
